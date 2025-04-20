@@ -1,8 +1,8 @@
 <h1 align="center">Hello World! 👋 I'm Tanush</h1>
-<h2 align="center">A passionate full stack software developer from India</h2>
+<h2 align="center">A passionate software engineer from India</h2>
 
 # 💫 About Me:
-I specialise in Cloud Computing on the AWS Network, Machine Learning and full stack web development.<br>I'm always eager to learn and collaborate!
+I'm a dynamic Software Development Engineer from India with a penchant for Machine Learning, Computer Vision, Cloud Computing, and Full Stack Web Development. I thrive on creating innovative solutions that push boundaries and deliver impactful results. Whether building sleek UIs, crafting truly smart models, or optimizing cloud infrastructure, I approach every project with zeal and creativity. Let's connect and dive into the world of cutting-edge tech together! You can view my work at Github
 
 
 # 🌐 Socials:
